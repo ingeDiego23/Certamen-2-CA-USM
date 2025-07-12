@@ -32,8 +32,6 @@ Certamen-2-CA-USM/
 - **Jupyter Notebooks** – Entorno interactivo para prototipado
 - **Pandas** – Manejo y limpieza de datos
 - **NumPy** – Cálculo numérico
-- **Matplotlib / Seaborn** – Visualización de datos
-- **Scikit-learn** – Modelos de machine learning
 
 ---
 
@@ -78,7 +76,7 @@ Basado en el conjunto de datos de NASA sobre motores a reacción, se analiza la 
 
 ## 👨‍🎓 Autor
 
-- **Diego Ingelmo**  
+- **Diego Curin**  
   Estudiante – Universidad Técnica Federico Santa María  
   GitHub: [@ingeDiego23](https://github.com/ingeDiego23)
 
