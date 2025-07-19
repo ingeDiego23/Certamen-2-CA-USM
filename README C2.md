@@ -1,13 +1,14 @@
 
 # 🧠 Certamen 2 - Computación Aplicada - Universidad Técnica Federico Santa María
 
-Este repositorio contiene el desarrollo del **Certamen 2** para la asignatura **Computación Aplicada** de la Universidad Técnica Federico Santa María (USM). El trabajo se centra en el análisis de datos industriales utilizando herramientas de Python y ciencia de datos para evaluar la condición de distintos sistemas: aceites lubricantes, chancadores y motores aeronáuticos.
+Este repositorio contiene el desarrollo del **Certamen 2** para la asignatura **Computación Aplicada** de la Universidad Técnica Federico Santa María (USM), realizado en el marco del curso impartido por el **profesor Raymi Vásquez**. El trabajo se centra en el análisis de datos industriales utilizando herramientas como Python y PREPRO para evaluar la condición de distintos sistemas: aceites, chancadores, reboilers y motores aeronáuticos.
+
 
 ---
 
 ## 🎯 Objetivos Generales
 
-- Aplicar técnicas de análisis exploratorio y preprocesamiento de datos.
+- Aplicar técnicas de análisis  y procesamiento de datos.
 - Detectar fallas, anomalías y degradaciones en activos industriales.
 - Utilizar ventanas de tiempo y escalado de variables para modelar condiciones de operación.
 - Presentar resultados con sustento técnico en notebooks y reportes.
@@ -37,7 +38,7 @@ Este repositorio contiene el desarrollo del **Certamen 2** para la asignatura **
 ## 🔍 Áreas de Análisis
 
 ### ♨️ Reboilers
-- Análisis de datos industriales de un sistema de recirculación térmica (reboiler).
+- Análisis de datos industriales de un reboiler.
 - Limpieza y renombramiento de variables de sensores (temperatura, presión, conductividad, carga de motor).
 - Conversión de series temporales y agrupación en ventanas de 120 minutos.
 - Aplicación de filtros para identificar comportamientos anómalos en base a umbrales de operación.
@@ -91,18 +92,21 @@ Este repositorio contiene el desarrollo del **Certamen 2** para la asignatura **
 
 ## 📄 Informes Académicos
 
+
 - 📘 Aceites: `Aceite Informe/aceites.pdf`
 - 📘 Chancadores: `Chancadores Informe/Informe_Chancador.pdf`
 - 📘 Motores: `Motores Informe/Motores Informe.pdf`
+- 📘 Reboilers: `Reboiler Informe/reboiler.pptx`
 
 ---
 
 ## 👥 Autores
 
-- Diego Ingelmo – [@ingeDiego23](https://github.com/ingeDiego23)
-- Milovan Bustamante – [@milovanbustamante](https://github.com/milovanbustamante)
+- Milovan Bustamante – [@milovanbustamante](https://github.com/milovanbustamante) 
+- Diego Ingelmo – [@ingeDiego23](https://github.com/ingeDiego23)  
 
----
+**Profesor:** Raymi Vásquez
+
 
 ## 📜 Licencia
 
